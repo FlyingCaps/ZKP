@@ -2,7 +2,7 @@
 
 
 
-Welcome to our research repository focusing on Zero Knowledge Proofs (ZKP) and Cryptography. 
+Welcome to the research repository focusing on Zero Knowledge Proofs (ZKP) and Cryptography. 
 
 ## 📜 Introduction
 
