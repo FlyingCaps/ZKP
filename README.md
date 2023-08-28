@@ -30,7 +30,7 @@ This repository is licensed under the [MIT License](./LICENSE).
 
 ## 📧 Contact
 
-For any inquiries or collaboration opportunities, please reach out to us at [xiangyu.hui@anu.edu.au](mailto:youremail@example.com) or open an issue.
+For any inquiries or collaboration opportunities, please reach out to me at [xiangyu.hui@anu.edu.au](mailto:youremail@example.com) or open an issue.
 
 ---
 
