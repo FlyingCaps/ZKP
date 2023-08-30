@@ -44,7 +44,7 @@ through preprocessing](https://dualdory.github.io/)
 ## ZKP Papers
 - [Pinocchio: Nearly Practical Verifiable Computation 
 ](https://eprint.iacr.org/2013/279.pdf) - The zk-snark
-- [Bulletproofs: Short Proofs for Confidential Transactions and More]([#](https://eprint.iacr.org/2017/1066.pdf))
+- [Bulletproofs: Short Proofs for Confidential Transactions and More]((https://eprint.iacr.org/2017/1066.pdf))
 - [Dory: Efficient, Transparent arguments for
 Generalised Inner Products and Polynomial
 Commitments](https://eprint.iacr.org/2020/1274.pdf)
